@@ -19,4 +19,9 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS3dDNdq7_r43CaeRlJO8ZPsnwHtL6VjkrF0m7UiQkoEaexpZiSu5iQ1rmNuBh0W3Lh_P7G3y4njXcw/pub?gid=0&single=true&output=csv
-          downloaded_filename: 12. 2021 Fall Intersession.csv
+          downloaded_filename: Southeast - Current Semester.csv
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQxy6ICXRZB3edlwzWbv90tPd4f0veX0ML7bb60O96eABCer6ghyBS2YG0YJWKSkQPDIsrWNTRkBCop/pub?gid=0&single=true&output=csv
+          downloaded_filename: Metro - Current Semester.csv
