@@ -1,6 +1,6 @@
 # 👋 TCC Library Patron Counts
 
-### Best viewed in Github's Flat Data viewer; add "flat" before github in the url or [click here](https://flatgithub.com/syarb/TCC-Patron-Counts)
+### Best viewed in Github's Flat Data viewer; add "flat" before github in the url or [click here](https://flatgithub.com/syarb/tcc-patron-counts)
 
 Every hour at the Tulsa Community College Library *(at the Metro/Southeast campuses)* a patron count is recorded, this data is collected by the Library Aides and Assistants who use a Google Sheet to input a row containing five values: The number of patrons using ***computers***, the number of patrons in the ***quiet*** area, the ***silent*** area, the ***active*** area, and one last section, **other** to include patrons in any other location (walking around, at the service desk).
 
