@@ -38,6 +38,7 @@ jobs:
           # Release title (for automatic releases)
           title: Latest Patron Counts # optional
           # Assets to upload to the release
-          files: Current Semester - Metro.csv
+          files: |
+            Current Semester - Metro.csv
             Current Semester - Southeast.csv
             Previous Semesters.csv
