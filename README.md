@@ -5,7 +5,7 @@
 ### Best viewed in Github's Flat Data viewer — 📊 
 Add "flat" before github in the url, or [click here](https://flatgithub.com/syarb/tcc-patron-counts)
 
-![Count Data Grid](latestCountsGrid.svg)
+![Count Data Grid](patron-count-plot.png)
 
 #### Just want a shortcut to a specific semester in the viewer? Look below to find a quick link.
 Current semester:
