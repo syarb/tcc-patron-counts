@@ -1,6 +1,6 @@
 # 📚 TCC Library Patron Counts
 ### Best viewed in Github's Flat Data viewer — 📊 
-Add "flat" before github in the url, or [click here](https://flatgithub.com/syarb/tcc-patron-counts)
+Add "flat" before github in the url or [click here](https://flatgithub.com/syarb/tcc-patron-counts)
 
 ![Flat data viewer preview](/images/flat-data-preview.gif)
 
