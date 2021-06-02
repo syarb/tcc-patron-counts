@@ -1,34 +1,12 @@
 # 📚 TCC Library Patron Counts
-![Count Data Grid](/images/patron-count-plot.png)
-
-### Links
-**Current semester:**
-
-Semester | Flat Data Link
--------- | ---------
-Current Semester | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Current%20Semester%20-%20Southeast.csv)
-Full Metro History | [metro](https://flatgithub.com/syarb/tcc-patron-counts?filename=Current%20Semester%20-%20Metro.csv)
-
-
-**Older semesters:**
-
-Semester | Flat Data Link
--------- | ---------
-Cumulative Counts (not incl. current semester) | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F00.%20Full%20Count%20History.csv&sha=71c3167734bdf3b747f739ecc3b311838d9a1f3d)
-Spring 2019 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F01.%202019%20Spring.csv)
-Summer Intersession 2019 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F02.%202019%20Summer%20Intersession.csv)
-Summer 2019 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F03.%202019%20Summer.csv)
-Fall Intersession 2019 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F04.%202019%20Fall%20Intersession.csv)
-Fall 2019 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F05.%202019%20Fall.csv)
-Spring Intersession 2019 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F06.%202019%20Spring%20Intersession.csv)
-Fall 2020 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F09.%202020%20Fall.csv)
-Spring Intersession 2020 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F10.%202020%20Spring%20Intersession.csv)
-Spring 2021 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filename=Southeast%20Archive%2F11.%202021%20Spring.csv)
-
 ### Best viewed in Github's Flat Data viewer — 📊 
 Add "flat" before github in the url, or [click here](https://flatgithub.com/syarb/tcc-patron-counts)
 
 ![Flat data viewer preview](/images/flat-data-preview.gif)
+
+### Charts
+I've made a few charts over on [this Observable Notebook](https://observablehq.com/@syarb/sec-patron-count-plots), check them out if you want!
+![Count Data Grid Plot](patron-count-plot.gif)
 
 ### What are patron counts? — 🤔 
 
