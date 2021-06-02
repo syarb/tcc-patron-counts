@@ -1,5 +1,5 @@
 # 📚 TCC Library Patron Counts
-![Count Data Grid](patron-count-plot.png)
+![Count Data Grid](/images/patron-count-plot.png)
 
 ### Links
 **Current semester:**
@@ -28,7 +28,7 @@ Spring 2021 | [southeast](https://flatgithub.com/syarb/tcc-patron-counts?filenam
 ### Best viewed in Github's Flat Data viewer — 📊 
 Add "flat" before github in the url, or [click here](https://flatgithub.com/syarb/tcc-patron-counts)
 
-![Flat data viewer preview](flat-data-preview.gif)
+![Flat data viewer preview](/images/flat-data-preview.gif)
 
 ### What are patron counts? — 🤔 
 
