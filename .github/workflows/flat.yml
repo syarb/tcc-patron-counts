@@ -6,35 +6,6 @@ on:
   schedule:
     - cron: "*/5 * * * *"
 jobs:
-  release-project:
-    name: Create Archive
-    on: [push]
-    jobs:
-      build:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@master
-          - name: Archive Release
-            uses: thedoctor0/zip-release@master
-            with:
-              filename: 'full-archive.zip'
-              exclusions: '*.git*'
-    name: Releases
-    on: 
-      push:
-        tags:
-        - '*'
-    jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-      - uses: actions/checkout@v1
-      - uses: ncipollo/release-action@v1
-        with:
-          artifacts: "full-archive.zip"
-          commit: main
-          tag: 
-          token: ${{ secrets.GITHUB_TOKEN }}
   scheduled:
     runs-on: ubuntu-latest
     steps:
