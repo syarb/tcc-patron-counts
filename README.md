@@ -6,7 +6,7 @@ Add "flat" before github in the url, or [click here](https://flatgithub.com/syar
 
 ### Charts
 I've made a few charts over on [this Observable Notebook](https://observablehq.com/@syarb/sec-patron-count-plots), check them out if you want!
-![Count Data Grid Plot](patron-count-plot.gif)
+![Count Data Grid Plot](/images/patron-count-plot.gif)
 
 ### What are patron counts? — 🤔 
 
