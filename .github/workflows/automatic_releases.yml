@@ -35,7 +35,7 @@ jobs:
           # GitHub secret token
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           # Git tag (for automatic releases)
-          automatic_release_tag: "nightly-snapshot-${{ steps.date.outputs.today }}" # optional
+          automatic_release_tag: nightly-snapshot-${{ steps.date.outputs.today }} # optional
           # Should this release be marked as a draft?
           draft: false # optional
           # Should this release be marked as a pre-release?
