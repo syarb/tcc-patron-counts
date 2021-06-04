@@ -8,7 +8,9 @@ on:
   push:
     branches: [main]
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch: {}
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -36,7 +38,7 @@ jobs:
           # Should this release be marked as a pre-release?
           prerelease: false # optional, default is true
           # Release title (for automatic releases)
-          title: Latest Patron Counts # optional
+          title: # optional
           # Assets to upload to the release
           files: |
             Current Semester - Metro.csv
