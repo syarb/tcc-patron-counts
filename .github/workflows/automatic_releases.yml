@@ -24,4 +24,5 @@ jobs:
           files: |
             Current Semester - Metro.csv
             Current Semester - Southeast.csv
-            Previous Semesters.csv
+            Previous Semesters - Southeast.csv
+            Southeast Patron Counts by Semester
