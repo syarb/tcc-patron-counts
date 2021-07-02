@@ -4,15 +4,14 @@
 ## Downloads ⬇️ (click link to download)
 
 **Current Semester**
-- [Southeast](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Current.Semester.-.Southeast.csv)
-- [Metro](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Current.Semester.-.Metro.csv) (also currently contains **ALL** of the Metro Counts, but eventually I will split this like the SE campus)
+- [Southeast](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Current.Semester.Southeast.csv)
+- [Metro](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Current.Semester.Metro.csv)
 
 **Previous Semesters**
 - Southeast
-  - [.csv all-in-one file](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Previous.Semesters.-.Southeast.csv)
-  - [.zip file with each semester as its own .csv file](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Southeast.Patron.Counts.by.Semester.zip)
+  - [.zip file](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Archived.Southeast.Counts.zip)
 - Metro
-  - Coming soon, download the [metro current semester](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Current.Semester.-.Metro.csv) since it has all of the data.
+  - [.zip file](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Archived.Metro.Counts.zip)
 
 *The reasoning behind making them split is that the current semester's data lives on Google Sheets. The "live" semester gets loaded every time someone visits the count website, so having that file be only as big as absolutely necessary helps.*
 
