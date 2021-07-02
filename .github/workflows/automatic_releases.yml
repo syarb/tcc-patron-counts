@@ -22,7 +22,7 @@ jobs:
           prerelease: false # optional, default is true
           title: Latest patron counts # optional
           files: |
-            Current Semester - Metro.csv
-            Current Semester - Southeast.csv
-            Previous Semesters - Southeast.csv
-            Southeast Patron Counts by Semester.zip
+            Current Semester Metro.csv
+            Current Semester Southeast.csv
+            Archived Metro Counts.zip
+            Archived Southeast Counts.zip
