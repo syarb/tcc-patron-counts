@@ -24,5 +24,7 @@ jobs:
           files: |
             Current Semester Metro.csv
             Current Semester Southeast.csv
+            SEC Archive.csv
+            Metro Archive.csv
             Archived Metro Counts.zip
             Archived Southeast Counts.zip
