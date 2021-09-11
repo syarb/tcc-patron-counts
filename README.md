@@ -11,8 +11,6 @@
 - Southeast [.zip file](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Archived.Southeast.Counts.zip)
 - Metro [.zip file](https://github.com/syarb/tcc-patron-counts/releases/download/latest/Archived.Metro.Counts.zip)
 
-*The reasoning for the split is that the current semester's data lives on Google Sheets. The "live" semester gets loaded every time someone visits the count website, so having that file be only as big as absolutely necessary helps. I could probably merge them somehow... but... 🤷‍♂️*
-
 ## Just browsing? Check out the Flat Data Viewer! 📊
 Add "flat" before github in the url, like this: [https://**flat**github.com/syarb/tcc-patron-counts/](https://flatgithub.com/syarb/tcc-patron-counts/)
 ![Flat data viewer preview](/.images/flat-data-preview.gif)
