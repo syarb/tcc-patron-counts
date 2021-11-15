@@ -26,6 +26,3 @@ Every hour* at the TCC Southeast and Metro library a patron count is recorded.  
 * not necessarily every hour, but as often as possible, on the half hour every hour.
 
 Students using study rooms aren't included in this data. This is because the library uses a different way to record that data. If you are a library employee, you can use [this link](https://libcal.library.tulsacc.edu/admin/spaces/stats) to view those stats.
-
-## What about door counts? 🙋‍
-I have that data, but I haven't added it here **yet**! Come back soon.
